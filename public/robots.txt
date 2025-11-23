@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gk-physiotherapy-gal-kantor-chartered-physiotherapist-c0e87466.zappy5.app/sitemap.xml
