@@ -1613,16 +1613,3 @@ body.accessibility-widget-visible ._access-menu {
     display: none !important;
   }
 }
-
-/* Component-specific styles for Blank */
-
-
-        .blank-page-simple { background: white; font-family: var(--font-family); border: 3px dashed var(--primary-color); display: flex; align-items: center; justify-content: center; }
-        .canvas { text-align: center; }
-        .canvas-icon { font-size: 4rem; margin-bottom: 0.5rem; opacity: 0.5; }
-        .canvas-text { font-size: 1.2rem; font-weight: 600; color: var(--text-color); opacity: 0.6; }
-      
-
-/* Full-width section */
-.blank-preview { width: 100%; margin: 0; padding: 3rem 0; }
-.blank-preview .container { max-width: 1200px; margin: 0 auto; padding: 0 1.5rem; }
