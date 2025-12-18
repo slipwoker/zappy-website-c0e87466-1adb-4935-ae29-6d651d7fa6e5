@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zappy-site-c0e87466-1adb-4935-ae29.onrender.com/sitemap.xml
+Sitemap: https://gk-physiotherapy-gal-kantor-ch.zappy5.app/sitemap.xml
